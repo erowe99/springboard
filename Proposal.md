@@ -6,7 +6,7 @@ Perceivant wants to identify which factors of student engagement determine succe
 
 The data for this project will be provided by Perceivant and is gathered through its online courseware. The data will focus on one course from one university. This is about 2000 entries containing various factors such as de-identified student grades, engagement, click history, and assessment responses.
 
-(Fourth Paragraph on "how to approach and solve the problem." Looking for techniques or relationships to look at.)
+To solve this problem, I'll first have to find an average for engagement to define an active student. This could factors such as log in times, assignments turned in, amount of time spent on quiz questions etc. Then I can define students that are over or under that threshold and determine if there is a correlation with the end grade in the class or possible the end of semester assessment. For failing students, I want to look at how many "gave up" in the class which could be determined by their log-in times to the course. By checking how many students got below a 70 and also have not been active since about September, I can eliminate those students from the dataset since they did participate the whole way through so it is a given that they would have lower scores. This approach is only a start and will evolve as I progress further through this course. The end goal would be to predict and identify successful students and students at risk of failing before the semester ends. 
 
 I will finish the project by presenting the analysis to Perceivant. This will require a slide deck and a written report for them to reference. Along with this, I will provide the code for the project on Github.
 
