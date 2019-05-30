@@ -1,0 +1,5 @@
+,attempt_id,type,assignment_id,course_id,section_id,created_at,duration,id,page_id,user_id
+0,1,Ch1,1,100,1,Sept-03-2018,600000,1,1,1
+1,1,Ch1,1,100,1,Oct-06-2018,800000,2,1,1
+2,1,Ch2,1,100,1,Nov-04-2018,450000,3,1,2
+3,1,Ch2,1,100,1,Nov-028-2018,660000,4,1,2
