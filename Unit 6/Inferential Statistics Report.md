@@ -2,6 +2,14 @@ I need to add all of the visualizations to this thing after I have saved them. T
 shows some of the calculatations and actual results from hypothesis tests, linear regression, and descriptive statistics.
 All of that should take about 1hr. Then I'll be done. I can do that tomorrow in the car.
 
+Ok. So I have to abandon doing shit with markdown. I'll just use google docs and make it easy. Google docs is not as easily updatable since it does not use references to images, but it is a godsend compared to this markdown shit.
+
+I'll just copy down what I have. That way I can get this report done tonight.
+
+Then I'll start the unit 7 outline That outline will require cleaning up The Proposal, The Data Wrangling, The EDA, and possibly cleaning up my dataset folder
+
+I'll add all the images to the report and relevant code for hypothesis stuff. 
+
 # Introduction:
 
 ### Section 1: Effects of Guided Learning Duration and Attempts
@@ -20,7 +28,7 @@ and guided learning grades. Quiz grades will also be looked at for the face to f
 
 
 
-
+<img src = "figures/">
 
 ****
 ## Section 1: Effects of Guided Learning Duration and Attempts
@@ -28,6 +36,22 @@ and guided learning grades. Quiz grades will also be looked at for the face to f
 This section will look at the correlation between average duration and attempts on guided learning and grade outcomes: final grades, quiz grades, and midterms.
 
 I will use simple linear regressions to test for correlations and hypothesis tests to evaluate the difference between groups (Those above versus below the average for duration and attempts).
+
+<img src = "figures/Unposted Final score by Average Assessment Attempts.png">
+
+<img src = "figures/Grade Distribution for Students with Above Average Duration.png">
+<img src = "figures/Grade Distribution for Students with Below Average Duration.png">
+
+<img src = "figures/Unposted Final score by Average Assessment Duration.png">
+
+<img src = "figures/Average Quiz Grade by Average Assessment Duration.png">
+<img src = "figures/Average Quiz Grade by Average Assessment Attempts.png">
+
+<img src = "figures/Midterm Grade (%) by Average Assessment Duration.png">
+<img src = "figures/Midterm Grade (%) by Average Assessment Attempts.png">
+
+<img src = "figures/Guided Learning Grade by Average Assessment Duration.png">
+<img src = "figures/Guided Learning Grade by Average Assessment Attempts.png">
 
 ### Results:
 
@@ -53,6 +77,12 @@ This section will divide students based on their final scores in the class. They
 Then students will be divided based on the class structure they took: face to face with quizzes (which includes the hybrid group), face to face with a midterm, and online.
 
 Using these grouping, I will calculate descriptive statistics and perform hypothesis test to see if their are statisitaclly significant difference between the groups. This will be a basis for furhter analysis with machine learning.
+
+<img src = "figures/Grade Distribution by Class Structure.png">
+
+<img src = "figures/Grade Distribution by Class Structure (bucketed).png">
+
+
 
 ### Results:
 
@@ -89,6 +119,20 @@ Final Grade Plots:
  * Plot 7: Trend for project grades by grade_bucket 
  * Plot 8: Trend for guided learning grades by grade_bucket 
  * Plot 9: Trend for quiz grades by grade_bucket
+ 
+ 
+<img src = "figures/Overall trend for Project Grades.png">
+<img src = "figures/Overall trend for Guided Learning Grades.png">
+<img src = "figures/Overall trend for Quiz Grades.png">
+
+<img src = "figures/Trend for Project Grades by Class Structure.png">
+<img src = "figures/Trend for Guided Learning Grades by Class Structure.png">
+<img src = "figures/Trend for Quiz Grades by Class Structure.png">
+
+<img src = "figures/Trend for Project Grades by Final Grade.png">
+<img src = "figures/Trend for Guided Learning Grades by Final Grade.png">
+<img src = "figures/Trend for Quiz Grades by Final Grade.png">
+ 
  
 ### Results:
 
